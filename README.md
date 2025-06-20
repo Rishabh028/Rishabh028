@@ -36,7 +36,7 @@
 
 ### 🚀 Projects
 
-- [StayFinder](https://github.com/Rishabh028/StayFinder) – Airbnb-inspired vacation rental web app
+- [StayFinder](https://github.com/Rishabh028/StayFinder) – Online Homestay Booking Website
 - [Real Time Chat](https://github.com/Rishabh028/Real-time-Chat) – Full-stack chat app with Socket.io
 - [Portfolio](https://github.com/Rishabh028/Portfolio) – My personal portfolio website
 - [Premium Headphones Landing Page](https://github.com/Rishabh028/Premium-Headphones-Responsive-Landing-Page)
@@ -49,7 +49,7 @@
   <a href="mailto:rishabhrajak2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/rishabh-rajak-621318316/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/rishabh_0028/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://rishabh028.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://rishabh028.github.io/Portfolio.github.io/"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
