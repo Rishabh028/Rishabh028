@@ -10,7 +10,7 @@
 - 🎓 **B.Tech. in Electronics & Communication Engineering** from **IIT Guwahati**
 - 💻 **Full Stack Developer** passionate about building impactful products
 - 🌱 Currently learning **Next.js**, **TypeScript**, and **AI/ML**
-- 🛠️ Experienced with **React**, **Node.js**, **MongoDB**, **Express**, **Tailwind CSS**, **Socket.io**, and more
+- 🛠️ Experienced with **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **MongoDB**, and more
 - 🚀 Love working on **real-time apps**, **responsive UIs**, and **open source**
 - 📫 How to reach me: **rishabhrajak2004@gmail.com**
 - 🌐 [LinkedIn](https://www.linkedin.com/in/rishabh-rajak-621318316/) | [Portfolio](https://rishabh028.github.io/Portfolio/) | [Instagram](https://www.instagram.com/rishabh_0028/)
