@@ -13,7 +13,7 @@
 - 🛠️ Experienced with **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **MongoDB**, and more
 - 🚀 Love working on **real-time apps**, **responsive UIs**, and **open source**
 - 📫 How to reach me: **rishabhrajak2004@gmail.com**
-- 🌐 [LinkedIn](https://www.linkedin.com/in/rishabh-rajak-621318316/) | [Portfolio](https://rishabh028.github.io/Portfolio/) | [Instagram](https://www.instagram.com/rishabh_0028/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/rishabh-rajak-621318316/) | [Portfolio](https://rishabh028.github.io/Portfolio.github.io/) | [Instagram](https://www.instagram.com/rishabh_0028/)
 
 ---
 
@@ -36,10 +36,10 @@
 
 ### 🚀 Projects
 
-- [StayFinder](https://github.com/Rishabh028/StayFinder) – Online Homestay Booking Website
-- [Real Time Chat](https://github.com/Rishabh028/Real-time-Chat) – Full-stack chat app with Socket.io
-- [Portfolio](https://github.com/Rishabh028/Portfolio) – My personal portfolio website
-- [Premium Headphones Landing Page](https://github.com/Rishabh028/Premium-Headphones-Responsive-Landing-Page)
+- [StayFinder](https://rishabh028.github.io/StayFinder/index.html) – Online Homestay Booking Website
+- [Real Time Chat](https://bingochat.onrender.com/) – Full-stack chat app with Socket.io
+- [Portfolio](https://rishabh028.github.io/Portfolio.github.io/) – My personal portfolio website
+- [Premium Headphones Landing Page](https://rishabh028.github.io/Responsive.landingPage/)
 
 ---
 
