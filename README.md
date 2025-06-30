@@ -25,13 +25,14 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh028&show_icons=true&theme=radical" alt="Rishabh's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh028&layout=compact&theme=radical" alt="Top Langs" height="165"/>
-</p>
-
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh028&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rishabh's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh028&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+  
+</div>
 ---
 
 ### 🚀 Projects
