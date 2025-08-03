@@ -40,7 +40,7 @@
 
 ### 🚀 Projects
 
-- [StayFinder](https://rishabh028.github.io/StayFinder/index.html) – Online Homestay Booking Website
+- [StayFinder](https://zippy-gumdrop-c1bd83.netlify.app/) – Online Homestay Booking Website
 - [Real Time Chat](https://bingochat.onrender.com/) – Full-stack chat app with Socket.io
 - [Portfolio](https://rishabh028.github.io/Portfolio.github.io/) – My personal portfolio website
 - [Premium Headphones Landing Page](https://rishabh028.github.io/Responsive.landingPage/)
