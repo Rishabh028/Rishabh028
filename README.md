@@ -40,10 +40,10 @@
 
 ### 🚀 Projects
 
-- [StayFinder](https://zippy-gumdrop-c1bd83.netlify.app/) – Online Homestay Booking Website
+- [StayFinder Pro](https://stay-finder-75qt.vercel.app/) – Online Hotel Booking Website
 - [Real Time Chat](https://bingochat.onrender.com/) – Full-stack chat app with Socket.io
-- [Portfolio](https://rishabh028.github.io/Portfolio.github.io/) – My personal portfolio website
-- [Premium Headphones Landing Page](https://rishabh028.github.io/Responsive.landingPage/)
+- [Portfolio](https://pixel-pulse-studio-96.lovable.app/) – My personal portfolio website
+- [CodeVerse]([https://rishabh028.github.io/Responsive.landingPage/](https://code-verse-6ji0ghvlk-rishabh028s-projects.vercel.app/)) - Online Code Editor
 
 ---
 
