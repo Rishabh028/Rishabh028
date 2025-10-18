@@ -43,7 +43,7 @@
 - [StayFinder Pro](https://stay-finder-75qt.vercel.app/) – Online Hotel Booking Website
 - [Real Time Chat](https://bingochat.onrender.com/) – Full-stack chat app with Socket.io
 - [Portfolio](https://pixel-pulse-studio-96.lovable.app/) – My personal portfolio website
-- [CodeVerse]([https://rishabh028.github.io/Responsive.landingPage/](https://code-verse-6ji0ghvlk-rishabh028s-projects.vercel.app/)) - Online Code Editor
+- [CodeVerse](https://code-verse-6ji0ghvlk-rishabh028s-projects.vercel.app/) - Online Code Editor
 
 ---
 
