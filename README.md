@@ -1,3 +1,4 @@
+![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=28&color=ffdf87&pause=1000&width=435&lines=Hey+there%2C+I'm+Rishabh+!+👋🏻)  
 <h1 align="center">Hi 👋, I'm Rishabh Rajak</h1>
 <h3 align="center">Electronics & Communication Engineer | Full Stack Developer | Tech Enthusiast</h3>
 
@@ -46,6 +47,11 @@
 - [CodeVerse](https://code-verse-6ji0ghvlk-rishabh028s-projects.vercel.app/) - Online Code Editor
 
 ---
+
+- 🔥 Check out my ***LeetCode*** Stats !
+
+  [![Leetcode Stats](https://leetcard.jacoblin.cool/Ratrace_Coder?ext=heatmap&theme=dark&border=3&radius=12)](https://leetcode.com/u/Ratrace_Coder/)
+  <br><hr>
 
 ### 📫 Let's Connect!
 
