@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
+  <img align="right" alt = "coding" width = "350" src = "https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 </p>
 
 ---
@@ -14,7 +15,7 @@
 - 🛠️ Experienced with **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **MongoDB**, and more
 - 🚀 Love working on **real-time apps**, **responsive UIs**, and **open source**
 - 📫 How to reach me: **rishabhrajak2004@gmail.com**
-- 🌐 [LinkedIn](https://www.linkedin.com/in/rishabh-rajak-621318316/) | [Portfolio](https://rishabh028.github.io/Portfolio.github.io/) | [Instagram](https://www.instagram.com/rishabh_0028/)
+- 🌐 <a href="[https://www.linkedin.com/in/deepak-melkani-3991b5263](https://www.linkedin.com/in/rishabh-rajak-621318316/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rishabh" height="25" width="35" /></a>  |  <a href="https://www.instagram.com/rishabh_0028/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36131492/158049056-56e3a853-a309-4bc5-a85a-a03fa8e51ce8.png" alt="Rishabh" height="30" width="35" /></a>  |  <a href="[https://www.linkedin.com/in/deepak-melkani-3991b5263](https://rishabh028.github.io/Portfolio.github.io/)" target="blank"><img align="center" src="https://rishabh028.github.io/Portfolio.github.io/Images/ProfilePic.jpg" alt="Rishabh" height="25" width="35" /></a>)
 
 ---
 
