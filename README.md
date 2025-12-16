@@ -15,7 +15,7 @@
 - 🛠️ Experienced with **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **MongoDB**, and more
 - 🚀 Love working on **real-time apps**, **responsive UIs**, and **open source**
 - 📫 How to reach me: **rishabhrajak2004@gmail.com**
-- 🌐 <a href="https://www.linkedin.com/in/rishabh-rajak-621318316/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rishabh" height="25" width="35" /></a>  |  <a href="https://www.instagram.com/rishabh_0028/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36131492/158049056-56e3a853-a309-4bc5-a85a-a03fa8e51ce8.png" alt="Rishabh" height="30" width="35" /></a>  |  <a href="https://rishabh028.github.io/Portfolio.github.io/" target="blank"><img align="center" src="https://rishabh028.github.io/Portfolio.github.io/Images/ProfilePic.jpg" alt="Rishabh" height="25" width="35" /></a>)
+- 🌐 <a href="https://www.linkedin.com/in/rishabh-rajak-621318316/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rishabh" height="25" width="35" /></a>  |  <a href="https://www.instagram.com/rishabh_0028/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36131492/158049056-56e3a853-a309-4bc5-a85a-a03fa8e51ce8.png" alt="Rishabh" height="30" width="35" /></a>  |  <a href="https://portfolio-200-nwokipe7m-rishabh028s-projects.vercel.app/" target="blank"><img align="center" src="https://rishabh028.github.io/Portfolio.github.io/Images/ProfilePic.jpg" alt="Rishabh" height="25" width="35" /></a>)
 
 ---
 
@@ -45,7 +45,7 @@
 
 - [StayFinder Pro](https://stay-finder-75qt.vercel.app/) – Online Hotel Booking Website
 - [Real Time Chat](https://bingochat.onrender.com/) – Full-stack chat app with Socket.io
-- [Portfolio](https://pixel-pulse-studio-96.lovable.app/) – My personal portfolio website
+- [Portfolio](https://portfolio-200-nwokipe7m-rishabh028s-projects.vercel.app/) – My personal portfolio website
 - [CodeVerse](https://code-verse-6ji0ghvlk-rishabh028s-projects.vercel.app/) - Online Code Editor
 
 ---
@@ -61,7 +61,7 @@
   <a href="mailto:rishabhrajak2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/rishabh-rajak-621318316/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/rishabh_0028/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://rishabh028.github.io/Portfolio.github.io/"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://portfolio-200-nwokipe7m-rishabh028s-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
