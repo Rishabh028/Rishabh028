@@ -32,12 +32,18 @@
   ![](https://github-readme-stats.vercel.app/api?username=Rishabh028&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
   ![](https://nirzak-streak-stats.vercel.app/?user=Rishabh028&theme=dark&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh028&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-  <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rishabh028&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
 
 ## 📈 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh028&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+<div> <a href="https://github.com/Rishabh028" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/Rishabh028">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rishabh028&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rishabh028&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishabh028&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rishabh028&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishabh028&theme=2077" height="180em" />
+</div>
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rishabh028&limit=5&theme=merko&combine_all_yearly_contributions=true)
@@ -45,12 +51,6 @@
 ## 📅 Contribution Calendar
 <img src="https://ghchart.rshah.org/409ba5/Rishabh028" alt="Contribution Calendar" width="100%"/>
 
-## 🔝 Most Used Languages
-
-<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh028&layout=compact&langs_count=10&theme=dark"/>
-</div>
 
 ## 🔥 Check out my ***LeetCode*** Stats !
 
