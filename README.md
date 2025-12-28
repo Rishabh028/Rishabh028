@@ -52,7 +52,7 @@
 
 ### 🔥 Check out my ***LeetCode*** Stats !
 
-  [![Leetcode Stats](https://leetcard.jacoblin.cool/Ratrace_Coder?ext=heatmap&theme=dark&border=3&radius=12)](https://leetcode.com/u/Ratrace_Coder/)
+  [![Leetcode Stats](https://leetcard.jacoblin.cool/Ratrace_Coder?ext=heatmap&theme=dark&border=3&radius=12)](https://leetcode.com/u/Ratrace_C)
   <br><hr>
 
 ### 📫 Let's Connect!
