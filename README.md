@@ -8,6 +8,7 @@
 </p>
 
 ---
+### 💫 About Me:
 
 - 🎓 **B.Tech. in Electronics & Communication Engineering** from **IIT Guwahati**
 - 💻 **Full Stack Developer** passionate about building impactful products
@@ -21,38 +22,31 @@
 
 ### 🛠️ Languages & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,python,c,cpp,react,nextjs,nodejs,mongodb,figma,vscode" />
-</p>
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rishabh028&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh028" />
-</p>
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh028&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rishabh's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh028&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>      
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh028&layout=compact&theme=tokyonight&hide_border=true"" alt="Rishabh" />
-  
+  ![](https://github-readme-stats.vercel.app/api?username=Rishabh028&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=Rishabh028&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh028&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 </div>
----
 
-### 🚀 Projects
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Rishabh028&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
-- [StayFinder Pro](https://stay-finder-75qt.vercel.app/) – Online Hotel Booking Website
-- [Real Time Chat](https://bingochat.onrender.com/) – Full-stack chat app with Socket.io
-- [Portfolio](https://portfolio-2-0-theta-six.vercel.app/) – My personal portfolio website
-- [CodeVerse](https://code-verse-6ji0ghvlk-rishabh028s-projects.vercel.app/) - Online Code Editor
 
 ---
 
 ### 🔥 Check out my ***LeetCode*** Stats !
 
-  
+ 
+ ### ✍ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+ 
 
 ### 📫 Let's Connect!
 
@@ -64,5 +58,6 @@
 </p>
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Rishabh028&icon=0&color=2)](https://visitcount.itsvg.in)
 
 > _“Striving for excellence, one project at a time.”_
