@@ -43,6 +43,9 @@
 
 ### 🔥 Check out my ***LeetCode*** Stats !
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Ratrace_Coder?ext=heatmap&theme=dark&border=3&radius=12)](https://leetcode.com/u/Ratrace_Coder/)
+  <br><hr>
+
  
  ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
