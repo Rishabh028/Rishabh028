@@ -73,7 +73,7 @@
   <a href="mailto:rishabhrajak2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/rishabh-rajak-621318316/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/rishabh_0028/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://portfolio-2-0-theta-six.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://portfolio0028.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
