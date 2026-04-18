@@ -19,7 +19,6 @@
 - 🛠️ Experienced with **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **MongoDB**, and more
 - 🚀 Love working on **real-time apps**, **responsive UIs**, and **open source**
 - 📫 How to reach me: **rishabhrajak2004@gmail.com**
-- 🌐 <a href="https://www.linkedin.com/in/rishabh-rajak-621318316/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rishabh" height="25" width="35" /></a>  |  <a href="https://www.instagram.com/rishabh_0028/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36131492/158049056-56e3a853-a309-4bc5-a85a-a03fa8e51ce8.png" alt="Rishabh" height="30" width="35" /></a>  |  <a href="https://portfolio-2-0-theta-six.vercel.app/" target="blank"><img align="center" src="https://rishabh028.github.io/Portfolio.github.io/Images/ProfilePic.jpg" alt="Rishabh" height="25" width="35" /></a>
 
 ---
 <div align="center">
