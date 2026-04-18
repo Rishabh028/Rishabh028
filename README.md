@@ -3,8 +3,8 @@
 <h3 align="center">Electronics & Communication Engineer | Full Stack Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
-  <img align="right" alt = "coding" width = "350" src = "https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
+  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="70%" />
 </p>
 
 ---
@@ -79,4 +79,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Rishabh028&icon=0&color=2)](https://visitcount.itsvg.in)
 
+<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="80%" />
+
+
 > _“Striving for excellence, one project at a time.”_
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+</div>
