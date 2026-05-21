@@ -54,6 +54,11 @@
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rishabh028&limit=5&theme=merko&combine_all_yearly_contributions=true) <br/>
 
+## 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rishabh028&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
+</p>
+
 ## 📅 Contribution Calendar
 <img src="https://ghchart.rshah.org/409ba5/Rishabh028" alt="Contribution Calendar" width="100%"/>
 
