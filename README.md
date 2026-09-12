@@ -40,8 +40,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh0028&theme=tokyonight&hide_border=true"/ </p> <br/>
 
 ## 📈 Contribution Activity
-<div> <a href="https://github.com/Rishabh028" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/Rishabh028">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rishabh028&theme=2077" height="180em" />
@@ -50,6 +48,30 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rishabh028&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishabh028&theme=2077" height="180em" />
 </div>
+<table width="100%" align="center">
+  <tr>
+    <td>
+      <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Rishabh028&show_icons=true&hide_border=true&bg_color=00000000&theme=dark&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR" />
+        <img
+          src="https://github-readme-stats-one-bice.vercel.app/api?username=Rishabh028&show_icons=true&hide_border=true&bg_color=00000000&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR"
+          height="200" alt="GitHub Stats" />
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=YuKongA&hide_border=true&layout=compact&langs_count=6&bg_color=00000000&theme=dark" />
+        <img
+          src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=YuKongA&hide_border=true&layout=compact&langs_count=6&bg_color=00000000"
+          height="200" alt="Top Languages" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rishabh028&limit=5&theme=merko&combine_all_yearly_contributions=true) <br/>
@@ -61,6 +83,8 @@
 
 ## 📅 Contribution Calendar
 <img src="https://ghchart.rshah.org/409ba5/Rishabh028" alt="Contribution Calendar" width="100%"/>
+
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=Rishabh028&hide_border=true)
 
 
 ## 🔥 Check out my ***LeetCode*** Stats !
